@@ -2240,12 +2240,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\1c1783a7-abee-4b5d-8ae2-91cabeebab4a_dino.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\37d37be9-0088-4eca-a9a5-370b5cff7c55_dino.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\21384c3f-8b71-46dd-8c67-d3ff9410b330_Screenshot 2023-03-10 145646 - Copy.png))">
       <SourceType>Package</SourceType>
       <SourceId>Fiorello</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Fiorello</BasePath>
-      <RelativePath>img/37d37be9-0088-4eca-a9a5-370b5cff7c55_dino.png</RelativePath>
+      <RelativePath>img/21384c3f-8b71-46dd-8c67-d3ff9410b330_Screenshot 2023-03-10 145646 - Copy.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2254,14 +2254,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\37d37be9-0088-4eca-a9a5-370b5cff7c55_dino.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\21384c3f-8b71-46dd-8c67-d3ff9410b330_Screenshot 2023-03-10 145646 - Copy.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\82efb349-44cf-4643-b56c-cbba474c1585_bubu.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\2f42b052-6f9f-42c8-b3b4-ac1df4db7ad2_huhu.png))">
       <SourceType>Package</SourceType>
       <SourceId>Fiorello</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Fiorello</BasePath>
-      <RelativePath>img/82efb349-44cf-4643-b56c-cbba474c1585_bubu.png</RelativePath>
+      <RelativePath>img/2f42b052-6f9f-42c8-b3b4-ac1df4db7ad2_huhu.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2270,14 +2270,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\82efb349-44cf-4643-b56c-cbba474c1585_bubu.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\2f42b052-6f9f-42c8-b3b4-ac1df4db7ad2_huhu.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\b1df0e27-a90b-4dd3-801e-b9c75fd83dbf_Screenshot 2023-03-10 145646 - Copy.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\58227b67-47fe-4903-bf1c-dbcf0792dcd2_Screenshot 2023-03-10 145646.png))">
       <SourceType>Package</SourceType>
       <SourceId>Fiorello</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Fiorello</BasePath>
-      <RelativePath>img/b1df0e27-a90b-4dd3-801e-b9c75fd83dbf_Screenshot 2023-03-10 145646 - Copy.png</RelativePath>
+      <RelativePath>img/58227b67-47fe-4903-bf1c-dbcf0792dcd2_Screenshot 2023-03-10 145646.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2286,7 +2286,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\b1df0e27-a90b-4dd3-801e-b9c75fd83dbf_Screenshot 2023-03-10 145646 - Copy.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\58227b67-47fe-4903-bf1c-dbcf0792dcd2_Screenshot 2023-03-10 145646.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\blog-feature-img-1.jpg))">
       <SourceType>Package</SourceType>
@@ -2335,22 +2335,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\blog-feature-img-4.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\e6e88f65-40a5-4ec6-8274-9a9045e64f5d_huhu.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Fiorello</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Fiorello</BasePath>
-      <RelativePath>img/e6e88f65-40a5-4ec6-8274-9a9045e64f5d_huhu.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\e6e88f65-40a5-4ec6-8274-9a9045e64f5d_huhu.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\favicon.png))">
       <SourceType>Package</SourceType>

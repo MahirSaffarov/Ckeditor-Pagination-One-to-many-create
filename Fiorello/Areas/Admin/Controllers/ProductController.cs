@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using System.Security.Cryptography;
 
 namespace Fiorello.Areas.Admin.Controllers
 {
@@ -190,10 +191,10 @@ namespace Fiorello.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
         [HttpPost]
-        public async Task<IActionResult> Update(IFormFile fileName)
+        public async Task<IActionResult> Update(int? id,IFormFile file)
         {
 
-            return Ok();
+            return Ok(id);
         }
     }
 }
